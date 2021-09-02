@@ -21,6 +21,13 @@ title: About me
 * Pre-University and High School (2011 - 2015)
   - I have studied in Farzanegan (NODET) school, National Organization for Development of Exceptional Talent
 
+#### Skills
+
+* **Tools:** Goole colab, Jupyter notebook, Android Studio, Mason, PyCharm
+* **Computer Vision:** Fine-tuning, Self-supervised Learning, Attention Mechanisms, Data Augmentation, Batch Normalization, Pytorch, Keras/Tensorflow
+* **Database Management:** MySQL, SQL Server
+* **Languages:** Python, R, Java, HTML, CSS
+
   
 
 <!-- #### Resume
