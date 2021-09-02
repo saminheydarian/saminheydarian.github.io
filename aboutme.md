@@ -13,7 +13,7 @@ title: About me
 #### Academic Background
 
 * MSc in Artificial Intelligence (2020)
-  - I am continuing my education as a master student in Artificial Intelligence at University of Alberta from Fall 2019 under supervision of [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/#edu)
+  - I am continuing my education as a master student in Artificial Intelligence at University of Alberta from Fall 2020 under supervision of [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/#edu)
   
 * BSc in Computer Engineering (2015 - 2019) 
   - I have got BSc degree in Computer Engineering from Yazd University under supervision of [Dr. Ali Mohammad Latif](https://pws.yazd.ac.ir/latiff/)
