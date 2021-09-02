@@ -1,16 +1,31 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#### Research Interest
+* Lip-reading
+* Self-driving cars
+* Super resolution
+* Attention mechanisms
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### Academic Background
 
-What else do you need?
+* MSc in Artificial Intelligence (2020)
+  - I am continuing my education as a master student in Artificial Intelligence at University of Alberta from Fall 2019 under supervision of [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/#edu)
+  
+* BSc in Computer Engineering (2015 - 2019) 
+  - I have got BSc degree in Computer Engineering from Yazd University under supervision of [Dr. Ali Mohammad Latif](https://pws.yazd.ac.ir/latiff/)
+  
+* Pre-University and High School (2011 - 2015)
+  - I have studied in Farzanegan (NODET) school, National Organization for Development of Exceptional Talent
 
-### My story
+  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<!-- #### Resume
+* you can download my [CV](https://kiarashk76.github.io/docs/CV.pdf) here -->
+
+
+<!-- #### Recreational Activities
+* Walking around in the Gym, Playing some piano, Falling in the ice skating arena, barely understanding some stuff about relativity theory, loosing on [chess.com](chess.com)(chess id:kiarash007) -->
