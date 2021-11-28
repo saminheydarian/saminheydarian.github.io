@@ -22,10 +22,10 @@ title: About me
 
 #### Skills
 
-* **Tools:** Google colab, Jupyter notebook, Android Studio, Mason, PyCharm
-* **Computer Vision:** Fine-tuning, Self-supervised Learning, Attention Mechanisms, Data Augmentation, Batch Normalization, Pytorch, Keras/Tensorflow
-* **Database Management:** MySQL, SQL Server
-* **Languages:** Python, R, Java, HTML, CSS
+* **Programming Languages:** Python, R, Java, HTML, CSS
+* **Libraries:** PyTorch, Tensorflow/Keras
+* **Deep Learning:** Fine-tuning, Self-supervised Learning, Attention Mechanisms, Data Augmentation, Batch Normalization
+* **Languages:** English, Persian
 
   
 
