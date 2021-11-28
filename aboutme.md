@@ -4,10 +4,10 @@ title: About me
 
 ---
 
-#### Research Interest
+#### Research Interests
 * Lip-reading
-* Self-driving cars
-* Super resolution
+* Self-driving Cars
+* Reinforcement Learning
 * Attention mechanisms
 
 #### Academic Background
