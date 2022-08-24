@@ -6,7 +6,7 @@ title: About me
 
 #### Research Interests
 * Deep Learning
-* Computer Vision (Lip-reading, Self-driving Cars, and Attention Mechanisms)
+* Computer Vision (Lip-reading, Drowsiness detection, and Attention Mechanisms)
 * Reinforcement Learning
 
 #### Academic Background
