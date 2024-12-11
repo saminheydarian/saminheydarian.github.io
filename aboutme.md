@@ -1,37 +1,54 @@
 ---
 layout: page
-title: About me
+title: About Me
+---
+
+### About Me
+
+I am a **Computer Vision Engineer**, passionate about solving real-world problems through deep learning and computer vision technologies. My expertise spans areas like generative models, fine-tuning deep learning models, and deploying efficient AI solutions. Additionally, I conducted research on Lip Reading during my MSc thesis, utilizing knowledge distillation techniques to enhance the model's inference efficiency.
 
 ---
 
-#### Research Interests
-* Deep Learning
-* Computer Vision (Lip Reading, Drowsiness Detection, Knowledge Distillation, and Attention Mechanisms)
-* Reinforcement Learning
+### Research Interests
+- Computer Vision
+- Visual Speech Recognition
+- Deep Learning
 
-#### Academic Background
+---
 
-* MSc in Artificial Intelligence (2020)
-  - I am continuing my education as a master student in Artificial Intelligence at Iran University of Science and Technology from Fall 2020 under supervision of [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/#edu)
-  
-* BSc in Computer Engineering (2015 - 2019) 
-  - I have got BSc degree in Computer Engineering from Yazd University under supervision of [Dr. Ali Mohammad Latif](https://pws.yazd.ac.ir/latiff/)
-  
-* Pre-University and High School (2011 - 2015)
-  - I have studied in Farzanegan (NODET) school, National Organization for Development of Exceptional Talent
+### Academic Background
 
-#### Skills
+- **MSc in Artificial Intelligence (2020 - 2023)**  
+  Iran University of Science and Technology  
+  Supervised by [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/#edu)
 
-* **Programming Languages:** Python, R, Java, HTML, CSS
-* **Libraries:** PyTorch, Tensorflow/Keras
-* **Deep Learning:** Fine-tuning, Self-supervised Learning, Attention Mechanisms, Data Augmentation, Batch Normalization
-* **Languages:** English, Persian
+- **BSc in Computer Engineering (2015 - 2019)**  
+  Yazd University  
+  Supervised by [Dr. Ali Mohammad Latif](https://pws.yazd.ac.ir/latiff/)
 
-  
+- **Pre-University and High School (2011 - 2015)**  
+  Farzanegan (NODET) School  
+  National Organization for Development of Exceptional Talent
 
-<!-- #### Resume
-* you can download my [CV](https://kiarashk76.github.io/docs/CV.pdf) here -->
+---
 
+### Skills
 
-<!-- #### Recreational Activities
-* Walking around in the Gym, Playing some piano, Falling in the ice skating arena, barely understanding some stuff about relativity theory, loosing on [chess.com](chess.com)(chess id:kiarash007) -->
+#### Programming Languages
+- Python, R, Java, HTML, CSS
+
+#### Frameworks & Libraries
+- PyTorch, TensorFlow/Keras
+
+#### Languages
+- English (Fluent), Persian (Native)
+
+---
+
+### Contact Me
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/samin-heydarian-2aa019148/) or email me at [samin.heydarian97@gmail.com].  
+Feel free to explore my projects on [GitHub](https://github.com/saminheydarian).
+
+---
+
+<!-- Optional sections like Resume and Recreational Activities can be uncommented if needed -->
